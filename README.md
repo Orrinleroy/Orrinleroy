@@ -13,7 +13,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orrinleroy&show_icons=true&locale=en" alt="orrinleroy" /></p>
 
-
+<!--
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
+-->
+
